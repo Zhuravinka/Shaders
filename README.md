@@ -1,2 +1,4 @@
-# the results of learning from open tutorials
+# the results of learning shader coding in Unity from open tutorials
  
+ 
+
